@@ -14,9 +14,9 @@
 ```
 
 ### Configuration
-* Set configuration on [this](https://github.com/KiZakiXD/Wa-Bot) file
+* Set configuration on [this](https://github.com/KiZakiXD/Wa-Bot/blob/main/config.js)) file
 * Get apikey from [this](https://api.kizakixd.xyz) site
-* Join the discussion group [here](https://chat.whatsapp.com/C2k1QSKiAirCLtIOetKbhh) link
+* Join the discussion group [here](https://chat.whatsapp.com/LUzwuA0t9JDBZYMmhS0m91) link
 
 ### Run this command when installation is done
 ```bash
