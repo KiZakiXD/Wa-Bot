@@ -4,7 +4,7 @@ global.packName = '𝙺𝙸𝚉𝙰𝙺𝙸𝚇𝙳'
 global.authorName = 'Yotsuba - Bot'
 global.prefix = '#'
 global.mode = 'publik'
-global.ownerNumber = ['6281278895286','6285878313791']
+global.ownerNumber = ['87813379','6285878313791']
 global.thumb = fs.readFileSync('./thumb.jpeg')
 
 global.APIs = {
