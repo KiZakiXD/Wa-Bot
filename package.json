@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/erzawife/WA-BOT.git"
+    "url": "git+https://github.com/KiZakiXD/Wa-Bot.git"
   },
   "bugs": {
-    "url": "https://github.com/erzawife/WA-BOT/issues"
+    "url": "https://github.com/KiZakiXD/Wa-Bot/issues"
   },
   "license": "MIT",
   "dependencies": {
@@ -35,6 +35,6 @@
     "syntax-error": "^1.4.0",
     "util": "^0.12.4"
   },
-  "author": "Npc",
-  "homepage": "https://github.com/erzawife/WA-BOT"
+  "author": "NpcXKiZakiXD",
+  "homepage": "https://github.com/KiZakiXD/Wa-Bot"
 }
