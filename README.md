@@ -2,8 +2,8 @@
 
 ### Clone this repository
 ```bash
-> git clone Cooming Soon
-> cd WA-BOT
+> git clone https://github.com/KiZakiXD/Wa-Bot
+> cd Wa-Bot
 ```
 
 ### Installation (Termux/Ubuntu/Linux)
@@ -14,7 +14,7 @@
 ```
 
 ### Configuration
-* Set configuration on [this](Cooming Soon) file
+* Set configuration on [this](https://github.com/KiZakiXD/Wa-Bot) file
 * Get apikey from [this](https://api.kizakixd.xyz) site
 * Join the discussion group [here](https://chat.whatsapp.com/C2k1QSKiAirCLtIOetKbhh) link
 
@@ -24,7 +24,9 @@
 ```
 
 # Thanks To
+* [`Npc`](https://github.com/erzawife)
+* [`KiZakiXD`](https://github.com/kizakixd)
 * [`Vania`](https://github.com/fckvania)
 * [`Arip`](https://github.com/Akkun3704)
-* [`KiZakiXD`](https://github.com/kizakixd)
+
   
